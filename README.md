@@ -77,4 +77,4 @@ It allows you to send emails by describing the recipient, subject, and body in n
 
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [Ollama](https://ollama.com/)
--
+- [Gradio]
