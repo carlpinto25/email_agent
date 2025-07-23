@@ -1,4 +1,3 @@
 env/
 __pycache__/
-mistral-search-engine.ipynb
-lang-gradio.py
+.env
