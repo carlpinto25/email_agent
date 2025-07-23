@@ -24,12 +24,12 @@ It allows you to send emails by describing the recipient, subject, and body in n
     ```
 
 2. **Install dependencies**
-
+   (you are using a virtual environment right?)
     ```sh
     pip install -r requirements.txt
     ```
 
-3. **Install and run Ollama**
+4. **Install and run Ollama**
 
     - Download and install Ollama from [https://ollama.com/download](https://ollama.com/download)
     - Pull the Mistral model:
@@ -41,7 +41,7 @@ It allows you to send emails by describing the recipient, subject, and body in n
       ollama run mistral
       ```
 
-4. **Set up your `.env` file**
+5. **Set up your `.env` file**
 
     Create a `.env` file in the project root with:
     ```
